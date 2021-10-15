@@ -1,0 +1,121 @@
+@{
+    ViewData["Title"] = "Feed";
+}
+
+<!DOCTYPE html>
+<html lang="pt_br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/wwwroot/style.css">
+    <title>@ViewData["Title"]</title>
+</head>
+
+<body>
+
+<div class="feed_flex_box">
+
+    <div class="container_feed">
+
+        <div class="Feed_cima">
+            <section class="feed_stories">
+                <div class="feed_stories_perfis">
+                    @foreach (var item in ViewBag.Usuarios)
+                    {         
+                    <div class="feed_stories_perfil">
+                        <img src="/img/Usuario/@item.FotoPerfil" alt="">
+                        <p>@item.UserName</p>
+                    </div>
+                    }
+
+                </div>
+            </section>
+        </div>
+
+        <section class="feed_postar">
+            <div class="feed_postar_info">
+                <div class="feed_imagemperfil">
+                    <img src="/img//Usuario/@ViewBag.FotoUsuario" alt="">
+                    <p>Postar</p>
+                </div>
+                <div class="feed_form_post">
+                    <form action='@Url.Action("Cadastrar")' method="post" enctype="multipart/form-data">
+                        <input placeholder="Digite a descrição da imagem" type="text" name="descricao" required>
+                        <label for='selecao-arquivo'>Escolha uma imagem &#187;</label>
+                        <input id="selecao-arquivo" type="file" name="imagem">
+                        <button type="submit">Postar</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        @foreach (Post post in ViewBag.Posts)
+        {
+            <section class="feed_posts feed_postar">
+
+                <div class="feed_posts_perfil_info feed_imagemperfil">
+                    <img src="\img\Usuario/@post.CadastradoPorFoto" alt="">
+                    <div class="feed_txt_post">
+                        <p>@post.CadastradoPor</p>
+                        <p id="feed_localização_txt">@post.DateTime</p>
+                    </div>
+                </div>
+                <div class="feed_post_info">
+                    <img src="/img/Posts/@post.imagem" alt="Post">
+                    <div class="feed_interacao_post">
+                        <div class="feed_clicaveis_post">
+                            <li><i class="far fa-heart"></i></li>
+                            <i class="far fa-comment"></i>
+                            <form action="Ur">
+                                <input type="text" placeholder="Comentar..." name="comentario">
+                            </form>
+
+                        </div>
+                    </div>
+
+
+                    <div class="feed_curtidas">
+                        <p>2077 curtidas</p>
+                    </div>
+                    <div class="feed_comentarios_post">
+                        <div class="feed_comentario feed_legenda">
+                            <p id="feed_nome">@post.CadastradoPor</p>
+                            <p>@post.descricao</p>
+                        </div>
+                        <div class="feed_comentario">
+                            <p id="feed_nome">cachorro</p>
+                            <p>do mangue</p>
+                        </div>
+                        <div class="feed_comentario">
+                            <p id="feed_nome">cachorro</p>
+                            <p>do mangue</p>
+                        </div>
+                        <div class="feed_comentario">
+                            <p id="feed_nome">cachorro</p>
+                            <p>do mangue</p>
+                        </div>
+                        <div class="feed_comentario">
+                            <p id="feed_nome">cachorro</p>
+                            <p>do mangue</p>
+                        </div>
+
+                    </div>
+                </div>
+
+            </section>
+        }
+    </div>
+            <div class="perfil_main">
+                <a asp-area="" asp-controller="Perfil" asp-action="Index"><img src="/img//Usuario/@ViewBag.FotoUsuario" alt=""></a>
+                <div class="perfil_main_nome">
+                    <p>@ViewBag.Username</p>
+                    <span>@ViewBag.NomeUsuario</span>
+                </div>
+            </div>
+</div>
+
+</body>
+
+</html>

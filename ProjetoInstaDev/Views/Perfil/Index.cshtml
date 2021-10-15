@@ -1,0 +1,106 @@
+@{
+    ViewData["Title"] = "Página Perfil";
+}
+
+<div class="Perfil_container" >
+    <section class="Perfil_Infirmaçoes">
+        <div class="Perfil_fotodeperfil">
+            <!-- <input class="Perfil_fotoperfil" type="image"> -->
+            <img class="Perfil_fotoperfil" src="/img/Usuario/@ViewBag.FotoUsuario" alt="">
+
+        </div>
+        <div class="Perfil_organização">
+            <h2 class="Perfil_Nome">@ViewBag.Username</h2>
+
+            <div class="Perfil_Seguidores">
+                <p>0 publicações</p>
+                <p>128 seguindo</p>
+                <p>214 seguidores</p>
+            </div>
+            <div class="Perfil_seguidores2">
+                <p>@ViewBag.NomeUsuario</p>
+                <a asp-area="" asp-controller="EditarPerfil" asp-action="Index">Editar Perfil</a>
+                <a asp-area="" asp-controller="Login" asp-action="Logout" target="_parent">Sair</a>
+            </div>
+        </div>
+    </section>
+    <Section>
+        <div class="Perfil_publicações">
+            <img src="/img/Imagem/image 1-1.png" alt="">
+            <a href="">PUBLICAÇÕES</a>
+        </div>
+        @foreach (Post post in ViewBag.Posts)
+        {
+            if (post.CadastradoPor == ViewBag.UserName)
+            {
+
+                <div class="Perfil_posts">
+                    <img class="Perfil_fotoPost" src="~/img/Posts/@post.imagem" alt="">
+                    <div class="Perfil_posts2">
+                        <div class="Perfil_perfilNome">
+                            <img class="Perfil_fotoPerfil2" src="/img/Usuario/@ViewBag.FotoUsuario" alt="">
+                            <div class="Perfil_descrição">
+                                <div class="Perfil_Foto">
+                                    <a>@ViewBag.Username</a>
+                                    <p>Localiza ai</p>
+                                </div>
+                                <a  class="Perfil_menu" href="javascript:void(0)" onclick=" botaodoMenu(@post.MostrarId())">
+                                    <i id="icone" class="fas fa-ellipsis-v"></i>
+                                </a>
+                                <nav id="@post.MostrarId()" class="Perfil_Botao">
+                                    <a asp-area="" asp-controller="Post" asp-action="ExcluirPosts" asp-route-id="@post.MostrarId()">Deletar Posts</a>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="Perfil_like">
+                            <div>
+                                <img class="Perfil_coraçaõ" src="/img/Imagem/Vector.png" alt="">
+                                <img src="/img/Imagem/Vector-1.png" alt="">
+                            </div>
+                            <p>1954 curtidas</p>
+                            <div class="perfil_descricao">
+                                <a>@post.CadastradoPor</a>
+                                <p> @post.descricao </p>
+                            </div>
+                        </div>
+                        <div class="Perfil_comentarios">
+                            <div class="Perfil_comentarios1">
+                                <div class="Perfil_alinhamento_comentario">
+                                    <a href="">fausto_silva</a>
+                                    <p>Esse cara é fera bixo!!!</p>
+                                </div>
+                                <img src="/img/Imagem/Vector.png" alt="">
+                            </div>
+                            <div class="Perfil_comentarios2">
+                                <div class="Perfil_alinhamento_comentario">
+                                    <a href="">@ViewBag.Username</a>
+                                    <p>thank you</p>
+                                </div>
+                                <img src="/img/Imagem/Vector.png" alt="">
+                            </div>
+                            <div class="Perfil_comentarios3">
+                                <div class="Perfil_alinhamento_comentario">
+                                    <a href="">adriano_stark</a>
+                                    <p>Quando eu adormecer, vou sonhar com você. É sempre você. </p>
+                                </div>
+                                <img src="/img/Imagem/Vector.png" alt="">
+                            </div>
+                            <div class="Perfil_comentarios4">
+                                <div class="Perfil_alinhamento_comentario">
+                                    <a href="">@ViewBag.Username</a>
+                                    <p>Yes baby!!</p>
+                                </div>
+                                <img src="/img/Imagem/Vector.png" alt="">
+                            </div>
+                        </div>
+                        <div class="Perfil_ver_comentarios">
+                            <p>Ver todos os 585 comentários</p>
+                        </div>
+                    </div>
+
+                </div>
+            }
+        }
+
+    </Section>
+</div>

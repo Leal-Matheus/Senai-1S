@@ -1,0 +1,63 @@
+
+@model Usuario
+@{
+    ViewData["Title"] = "Editar Perfil";
+}
+
+<div class="EdPerfil_box_editar container">
+    <div class="EdPerfil_borda">
+
+    </div>
+    <div class="EdPerfil_box_esquerda">
+        <h1>Editar Perfil</h1>
+    </div>
+    <div class="EdPerfil_box_formulario">
+        <form class="EdPerfil_container_editar" method="POST" action='@Url.Action("Alterar")' enctype="multipart/form-data">
+            <div class="EdPerfil_campo_foto">
+                <img src="/img/Usuario/@ViewBag.FotoUsuario" alt="">
+                <div class="EdPerfil_mudar_foto">
+                    <span>@ViewBag.Username</span>
+                    <label class="arquivo_foto" for="selecao-arquivo">Alterar foto de perfil</label>
+                    <input id="selecao-arquivo" name="EditarFotoPerfil" type="file">
+                </div>
+            </div>
+            <div class="EdPerfil_campo">
+                <label>Nome</label>
+                <input type="text" value="@ViewBag.NomeUsuario" name="EditarNomeCompleto">
+                <div class="EdPerfil_texto_campo">
+                    <p>Ajude as pessoas a descobrir sua conta usando o nome pelo qual você é conhecido: seu nome
+                        completo, apelido ou nome comercial.</p>
+                    <p>Você pode alterar o seu nome apenas duas vezes a cada 14 dias.</p>
+                </div>
+            </div>
+
+            <div class="EdPerfil_campo_usuario">
+                <label>Nome de usuario</label>
+                <input type="text" value="@ViewBag.Username" name="EditarUsername">
+                <div class="EdPerfil_texto_campo_usuario">
+                    <p>Na maioria dos casos, você poderá alterar seu nome de usuário novamente para nascimento_tr por
+                        mais 14 dias.</p>
+                </div>
+
+            </div>
+
+            <div class="EdPerfil_campo">
+                <div class="EdPerfil_texto_campo">
+                    <h2>Informações pessoais</h2>
+                    <p> Forneça suas informações pessoais, mesmo se a conta for usada para uma empresa, um animal de
+                        estimação ou outra coisa. Elas não farão parte do seu perfil público.</p>
+                </div>
+                <label>Email</label>
+                <input type="email" value="@ViewBag.Email" name="EditarEmail">
+            </div>
+            <div class="EdPerfil_botoes_finais">
+                <button class="EdPerfil_botao_cadastrar" type="submit" asp-area="" asp-controller="EditarPerfil" asp-action="Alterar" asp-route-id="@ViewBag.id">Enviar</button>
+                <a asp-area="" asp-controller="EditarPerfil" asp-action="Deletar"  class="EdPerfil_texto_desativar" asp-route-id="@ViewBag.id">Desativar minha conta definitivamente</a>
+            </div>
+            
+
+        </form>
+    </div>
+
+</div>
+</div>

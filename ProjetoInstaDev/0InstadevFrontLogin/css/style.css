@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: 0;
+}
+
+main{
+    background-color: #e5e5e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 900px;
+}
+
+.container_login{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 20%;
+    height: 35%;
+    padding: 45px;
+    border-color: #f1f1f1;
+    border-style: ridge;
+    border-width: thin;
+}
+
+.logo_login{
+    width: 60%;
+}
+
+.form_log{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.inputs_log{
+    margin-bottom: 10px;
+    height: 37px;
+    background: #fafafa;
+    border: 1px solid #dcdcdc;
+    box-sizing: border-box;
+    border-radius: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-color: #fafafa;
+    font-style: normal;
+    font-weight: 11px;
+    line-height: 15px;
+}
+
+.input::placeholder{
+    color: #fafafa;
+    padding: 10px;
+}
+
+.botão{
+    background-color: #2686cc;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    border: normal;
+    border-radius: 2px;
+    height: 32px;
+   
+}
+
+.div_linha{
+    display: flex;
+    
+    
+}
+
+
+
+hr{
+    width: 90px;
+    margin: 30px 0;
+    
+}
+
+
+.esqueceu_senha{
+    /* font-weight: 600; */
+    color: #2686cc;
+    text-decoration: none ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.conectar_contas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border: 1px solid #f1f1f1;
+    border-radius: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 75px;
+    width: 27%;
+    margin-top: 15px;
+
+}
+
+.conectar_contas a{
+    font-weight: 600;
+    color: #2686cc;
+    text-decoration: none ;
+    margin-left: 5px;
+}
+
+.apps{
+    margin-top: 40px;
+    margin-bottom: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.img_apps{
+    height: 50px;
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.img_apps img{
+    width: 160px;
+}

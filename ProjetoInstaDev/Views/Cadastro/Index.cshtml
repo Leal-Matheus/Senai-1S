@@ -1,0 +1,38 @@
+@{
+    ViewData["Title"] = "Página Cadastro";
+}
+<div class="box_container_cadastro">
+    <section class="Cad_bloco_cadastrar">
+        <img src="Assets/Instadev.svg" class="Cad_Logo" alt="Logo do InstaDev">
+        <div class="Cad_Textos">
+            <p class="Cad_Texto">Cadastre-se para ver fotos e</p>
+            <p class="Cad_Texto"> videos dos seus amigos.</p>
+        </div>
+        <form action='@Url.Action("Cadastro")' method="post" enctype="multipart/form-data" class="Cad_form">
+
+            <input class="Cad_inputs" type="email" placeholder="Email" name="Email" required>
+
+            <input class="Cad_inputs" type="text" placeholder="Nome Completo" name="Nome Completo" required>
+
+            <input class="Cad_inputs" type="text" placeholder="Nome de Usuário" name="Nome de Usuário" required>
+
+            <input class="Cad_inputs" type="password" placeholder="Senha" name="Senha" required>
+
+            <button type="submit" class="Cad_botao">Cadastre-se</button>
+
+        </form>
+        <div class="Cad_Termos">
+            <p>Ao se cadastrar você concorda com nossos </p>
+            <p>Termos, Politica de Dados e Politica de Cookies.</p>
+        </div>
+    </section>
+    <div class="Cad_conectar_conta">
+        <p>Tem uma conta?</p>
+        <a asp-area="" asp-controller="Login" asp-action="Logar">Conecte-se</a>
+    </div>
+    <span class="Cad_obtenha_app">Obtenha o aplicativo.</span>
+    <div class="Cad_bloco_apps">
+        <img src="assets/app_store_1.png" alt="Loja da AppStore">
+        <img src="assets/google_play_1.png" alt="Loja ds GooglePlay">
+    </div>
+</div>

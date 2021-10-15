@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ProjetoInstaDev</title>
+    <script src="https://kit.fontawesome.com/76aff9d557.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+
+<body>
+    @if (ViewData["Title"].ToString()  != "Home Page"&& ViewData["Title"].ToString() != "Página Cadastro")
+    {
+
+        <Header>
+            <div class="container container_header">
+                <a class="Header_logo"><img src="\img\Instadev.png" alt=""></a>
+                <ul class="header_links">
+                    <nav class="nav_header">
+                        <label for="input-pesquisar"></label>
+                        <input id="input-pesquisar" class="Header_Input_Busca" type="text" placeholder="Pesquisar"
+                        onclick="">
+                        <div id="Links" class="links">
+                            <li><a asp-area="" asp-controller="Post" asp-action="Index"><i class="fas fa-home"></i></a></li>
+                            <li><i class="far fa-paper-plane"></i></li>
+                            <li><i class="far fa-compass"></i></li>
+                            <li><i class="far fa-heart"></i></li>
+                            @if (ViewBag.Username != null)
+                            {
+                                <li><a asp-area="" asp-controller="Perfil" asp-action="Index"><img
+                                    src="/img/Usuario/@ViewBag.FotoUsuario" alt=""></a></li>
+                                <a asp-area="" asp-controller="Login" asp-action="Logout" target="_parent"> Logout </a>
+                            }
+                            else
+                            {
+                                <a asp-area="" asp-controller="Login" asp-action="Index" target="_parent" > Login </a>
+                            }
+                        </div>
+                    </nav>
+                </ul>
+                    <a class="bnt_menu" href="javascript:void(0)" onclick="botaodoMenu1()"   >
+                        <i class="fas fa-align-justify"></i>
+                    </a>
+                
+            </div>
+        </Header>
+    }
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    @if (ViewData["Title"].ToString() != "Home Page" && ViewData["Title"].ToString() != "Página Cadastro" && ViewData["Title"].ToString() != "Editar Perfil")
+    {
+        <Footer>
+            <section class="container footer">
+                <nav class="links_uteis">
+                    <ul class="ul_footer">
+                        <li><a>Regras de utilização</a></li>
+                        <li><a>Suporte</a></li>
+                        <li><a>Central de Ajuda</a></li>
+                        <li><a>Contato</a></li>
+                    </ul>
+                </nav>
+
+                <a class="logo_footer" target="_parent"><img src="\img\Instadev.png"></a>
+
+                <span>InstaDev® 2021 Todos os direitos reservados</span>
+            </section>
+        </Footer>
+    }
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>
