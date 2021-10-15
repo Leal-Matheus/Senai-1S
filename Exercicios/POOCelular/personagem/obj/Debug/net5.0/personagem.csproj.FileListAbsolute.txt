@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ObjetoClasse\personagem\bin\Debug\net5.0\personagem.exe
+C:\Users\User\Documents\ObjetoClasse\personagem\bin\Debug\net5.0\personagem.deps.json
+C:\Users\User\Documents\ObjetoClasse\personagem\bin\Debug\net5.0\personagem.runtimeconfig.json
+C:\Users\User\Documents\ObjetoClasse\personagem\bin\Debug\net5.0\personagem.runtimeconfig.dev.json
+C:\Users\User\Documents\ObjetoClasse\personagem\bin\Debug\net5.0\personagem.dll
+C:\Users\User\Documents\ObjetoClasse\personagem\bin\Debug\net5.0\ref\personagem.dll
+C:\Users\User\Documents\ObjetoClasse\personagem\bin\Debug\net5.0\personagem.pdb
+C:\Users\User\Documents\ObjetoClasse\personagem\obj\Debug\net5.0\personagem.csprojAssemblyReference.cache
+C:\Users\User\Documents\ObjetoClasse\personagem\obj\Debug\net5.0\personagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ObjetoClasse\personagem\obj\Debug\net5.0\personagem.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ObjetoClasse\personagem\obj\Debug\net5.0\personagem.AssemblyInfo.cs
+C:\Users\User\Documents\ObjetoClasse\personagem\obj\Debug\net5.0\personagem.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ObjetoClasse\personagem\obj\Debug\net5.0\personagem.dll
+C:\Users\User\Documents\ObjetoClasse\personagem\obj\Debug\net5.0\ref\personagem.dll
+C:\Users\User\Documents\ObjetoClasse\personagem\obj\Debug\net5.0\personagem.pdb
+C:\Users\User\Documents\ObjetoClasse\personagem\obj\Debug\net5.0\personagem.genruntimeconfig.cache

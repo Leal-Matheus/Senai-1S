@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ExercicioFixacao\Votacao\bin\Debug\net5.0\Votacao.exe
+C:\Users\User\Documents\ExercicioFixacao\Votacao\bin\Debug\net5.0\Votacao.deps.json
+C:\Users\User\Documents\ExercicioFixacao\Votacao\bin\Debug\net5.0\Votacao.runtimeconfig.json
+C:\Users\User\Documents\ExercicioFixacao\Votacao\bin\Debug\net5.0\Votacao.runtimeconfig.dev.json
+C:\Users\User\Documents\ExercicioFixacao\Votacao\bin\Debug\net5.0\Votacao.dll
+C:\Users\User\Documents\ExercicioFixacao\Votacao\bin\Debug\net5.0\ref\Votacao.dll
+C:\Users\User\Documents\ExercicioFixacao\Votacao\bin\Debug\net5.0\Votacao.pdb
+C:\Users\User\Documents\ExercicioFixacao\Votacao\obj\Debug\net5.0\Votacao.csprojAssemblyReference.cache
+C:\Users\User\Documents\ExercicioFixacao\Votacao\obj\Debug\net5.0\Votacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ExercicioFixacao\Votacao\obj\Debug\net5.0\Votacao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\Votacao\obj\Debug\net5.0\Votacao.AssemblyInfo.cs
+C:\Users\User\Documents\ExercicioFixacao\Votacao\obj\Debug\net5.0\Votacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\Votacao\obj\Debug\net5.0\Votacao.dll
+C:\Users\User\Documents\ExercicioFixacao\Votacao\obj\Debug\net5.0\ref\Votacao.dll
+C:\Users\User\Documents\ExercicioFixacao\Votacao\obj\Debug\net5.0\Votacao.pdb
+C:\Users\User\Documents\ExercicioFixacao\Votacao\obj\Debug\net5.0\Votacao.genruntimeconfig.cache

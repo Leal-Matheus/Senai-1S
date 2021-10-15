@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - E_playersMVC</title>
+    <link rel="stylesheet" href="~/css/estiloEP.css" />
+</head>
+
+<body>
+    <header>
+        <div class="container_header container">
+            <div class="logo_header">
+                <img src="/imagens/logo.svg">
+            </div>
+            <nav class="nav_header zoom">
+                <a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                <a href="#noticias">Horarios</a>
+                <a href="#campeonatos">Campeonatos</a>
+                <a href="#partidas">Resultados</a>
+                <a href="#noticias">Noticias</a>
+
+                @if (ViewBag.Username != null)
+                {
+                    <a>Olá @ViewBag.Username</a>
+                    <a asp-area="" asp-controller="Login" asp-action="Logout" >LOGOUT</a>
+                }
+                else
+                {
+                    <a asp-area="" asp-controller="Login" asp-action="Index">LOGIN</a>
+                }
+
+            </nav>
+        </div>
+    </header>
+    <div>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="container_footer">
+            <div class="container box_footer">
+                <nav class="nav_footer">
+                    <span>Links Uteis</span>
+                    <ul class="lista_footer">
+                        <li><a href="#">Regras de utilização</a></li>
+                        <li><a href="#">Suporte</a></li>
+                        <li><a href="#">Central de ajuda</a></li>
+                        <li><a href="#">Contato</a></li>
+                    </ul>
+                </nav>
+                <nav class="nav_footer">
+                    <span>Páginas</span>
+                    <ul class="lista_footer">
+                        <li><a href="#">Rankings</a></li>
+                        <li><a href="#">Campeonatos</a></li>
+                        <li><a href="#">Resultados</a></li>
+                        <li><a href="#">Notícias</a></li>
+                        <li><a href="#">Login/Cadastro</a></li>
+                    </ul>
+                </nav>
+                <a href="#">
+                    <img src="/imagens/logo.svg" alt="">
+                </a>
+                <div class="contato_footer">
+                    <span>Faça parte do nosso clan, assine nossa newsletter!</span>
+                    <div class="formulario_newsletter">
+                        <input class="campo_newsletter" type="email" placeholder="E-mail">
+                        <input class="botao_newsletter" type="button" value="Entrar">
+                    </div>
+                    <div class="redes_sociais">
+                        <span>Siga-nos em:</span>
+                        <a href="https://www.instagram.com/">
+                            <img src="/imagens/instagram.png">
+                        </a>
+                        <a href="https://www.facebook.com">
+                            <img src="/imagens/facebook.png">
+                        </a>
+                        <a href="https://www.youtube.com/playlist?list=PLQc2LfH6uOhIlOT9kw3iUfs-qUQc5v-DT">
+                            <img src="/imagens/youtube.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

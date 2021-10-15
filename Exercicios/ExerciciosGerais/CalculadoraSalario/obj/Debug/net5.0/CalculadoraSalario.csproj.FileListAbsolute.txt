@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Backend1\CalculadoraSalario\bin\Debug\net5.0\CalculadoraSalario.exe
+C:\Users\User\Documents\Backend1\CalculadoraSalario\bin\Debug\net5.0\CalculadoraSalario.deps.json
+C:\Users\User\Documents\Backend1\CalculadoraSalario\bin\Debug\net5.0\CalculadoraSalario.runtimeconfig.json
+C:\Users\User\Documents\Backend1\CalculadoraSalario\bin\Debug\net5.0\CalculadoraSalario.runtimeconfig.dev.json
+C:\Users\User\Documents\Backend1\CalculadoraSalario\bin\Debug\net5.0\CalculadoraSalario.dll
+C:\Users\User\Documents\Backend1\CalculadoraSalario\bin\Debug\net5.0\ref\CalculadoraSalario.dll
+C:\Users\User\Documents\Backend1\CalculadoraSalario\bin\Debug\net5.0\CalculadoraSalario.pdb
+C:\Users\User\Documents\Backend1\CalculadoraSalario\obj\Debug\net5.0\CalculadoraSalario.csprojAssemblyReference.cache
+C:\Users\User\Documents\Backend1\CalculadoraSalario\obj\Debug\net5.0\CalculadoraSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Backend1\CalculadoraSalario\obj\Debug\net5.0\CalculadoraSalario.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Backend1\CalculadoraSalario\obj\Debug\net5.0\CalculadoraSalario.AssemblyInfo.cs
+C:\Users\User\Documents\Backend1\CalculadoraSalario\obj\Debug\net5.0\CalculadoraSalario.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Backend1\CalculadoraSalario\obj\Debug\net5.0\CalculadoraSalario.dll
+C:\Users\User\Documents\Backend1\CalculadoraSalario\obj\Debug\net5.0\ref\CalculadoraSalario.dll
+C:\Users\User\Documents\Backend1\CalculadoraSalario\obj\Debug\net5.0\CalculadoraSalario.pdb
+C:\Users\User\Documents\Backend1\CalculadoraSalario\obj\Debug\net5.0\CalculadoraSalario.genruntimeconfig.cache

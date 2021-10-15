@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ExercicioFixacao\tabuada\bin\Debug\net5.0\tabuada.exe
+C:\Users\User\Documents\ExercicioFixacao\tabuada\bin\Debug\net5.0\tabuada.deps.json
+C:\Users\User\Documents\ExercicioFixacao\tabuada\bin\Debug\net5.0\tabuada.runtimeconfig.json
+C:\Users\User\Documents\ExercicioFixacao\tabuada\bin\Debug\net5.0\tabuada.runtimeconfig.dev.json
+C:\Users\User\Documents\ExercicioFixacao\tabuada\bin\Debug\net5.0\tabuada.dll
+C:\Users\User\Documents\ExercicioFixacao\tabuada\bin\Debug\net5.0\ref\tabuada.dll
+C:\Users\User\Documents\ExercicioFixacao\tabuada\bin\Debug\net5.0\tabuada.pdb
+C:\Users\User\Documents\ExercicioFixacao\tabuada\obj\Debug\net5.0\tabuada.csprojAssemblyReference.cache
+C:\Users\User\Documents\ExercicioFixacao\tabuada\obj\Debug\net5.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ExercicioFixacao\tabuada\obj\Debug\net5.0\tabuada.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\tabuada\obj\Debug\net5.0\tabuada.AssemblyInfo.cs
+C:\Users\User\Documents\ExercicioFixacao\tabuada\obj\Debug\net5.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\tabuada\obj\Debug\net5.0\tabuada.dll
+C:\Users\User\Documents\ExercicioFixacao\tabuada\obj\Debug\net5.0\ref\tabuada.dll
+C:\Users\User\Documents\ExercicioFixacao\tabuada\obj\Debug\net5.0\tabuada.pdb
+C:\Users\User\Documents\ExercicioFixacao\tabuada\obj\Debug\net5.0\tabuada.genruntimeconfig.cache

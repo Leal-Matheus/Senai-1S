@@ -1,0 +1,24 @@
+  
+notas{
+
+    lógico respostaValida = falso
+
+    programa inicio{
+        
+        enquanto (respostaValida == falso)
+        {
+            escreva("Insira uma nota:")
+            inteiro nota = leia
+
+            se (resposta < 10)
+            {
+                escreva("Sua nota foi guardada no sistema!!")
+                respostaValida = verdadeiro
+            } senao
+            {
+                escreva("Esta não é uma nota valida!!")
+                escreva("Insira uma nota valida:")
+            }
+        }
+    }
+}

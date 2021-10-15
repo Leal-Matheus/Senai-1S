@@ -1,0 +1,18 @@
+programa{
+    salarioInicial
+    salarioFinal
+    salarioNovo
+
+
+    função(){
+        escreva("Insira o valor do seu salario:")
+        leia (salarioFinal)
+
+        se (salarioInicial < 500)
+            real salarioFinal = (salarioInicial / 100) * 30
+            real salarioNovo = salarioFinal + salarioInicial
+            escreva ("Seu novo salario é: + salarioNovo")
+    }      
+         senao
+            escreva ("Seu aumento de salario foi recusado!!")
+}

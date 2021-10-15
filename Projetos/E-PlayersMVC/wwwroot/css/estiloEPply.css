@@ -1,0 +1,319 @@
+    * {
+        box-sizing: 0;
+        padding: 0;
+        margin: 0;
+    }
+    /* CADASTRO JOGADOR */
+    
+    .container {
+        width: 1200px;
+        margin: 0 auto;
+    }
+    
+    .container_header {
+        display: flex;
+        justify-content: flex-end;
+        height: 100%;
+    }
+    
+    header {
+        background-color: #1e1c21;
+        height: 95px;
+        width: 100%;
+    }
+    
+    .logo_header {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        margin-right: 90px;
+    }
+    
+    .nav_header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 800px;
+        height: 100%;
+    }
+    
+    .nav_header a {
+        color: #fff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 24px;
+    }
+    
+    .banner_cadastro {
+        background-image: url(../E-Players/imagens/Rectangle\ 17.png);
+        width: 100%;
+        height: 240px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .banner_cadastro h1 {
+        font-size: 40px;
+        color: #fff;
+    }
+    
+    .cadastro {
+        height: 1250px;
+        background-color: #1e1c21;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .box_cadastro {
+        height: 640px;
+        width: 770px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        margin: 50px 0;
+        background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+        box-shadow: 3px 4px 34px 13px rgba(0, 0, 0, 0.75);
+        align-items: center;
+    }
+    
+    .box_cadastro label {
+        color: #fff;
+        font-size: 20px;
+    }
+    
+    .box_cadastro input {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .nome {
+        width: 575px;
+        height: 30px;
+        background-color: #ababab;
+    }
+    
+    .equipe {
+        width: 575px;
+        height: 30px;
+        background-color: #ababab;
+    }
+    
+    .email {
+        width: 575px;
+        height: 30px;
+        background-color: #ababab;
+    }
+    
+    .senha {
+        width: 575px;
+        height: 30px;
+        background-color: #ababab;
+    }
+    
+    .escolha_equipe {
+        display: flex;
+        flex-direction: column;
+        width: 575px;
+        height: 30px;
+        color: #ababab;
+    }
+    
+    .botao_cadastrar {
+        background-color: #D6A061;
+        width: 260px;
+        height: 40px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .botao_cadastrar a {
+        color: #fff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 19px;
+    }
+    
+    h2 {
+        color: #fff;
+        font-size: 40px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    
+    .tabela_jogadores {
+        width: 770px;
+        height: 175px;
+        border: solid white;
+        border-collapse: collapse;
+        text-align: left;
+    }
+    
+    .tabela_header {
+        background-color: black;
+    }
+    
+    .tabela_jogadores th {
+        color: white;
+        font-size: 1.3em;
+        text-transform: capitalize;
+        border-bottom: solid white;
+        padding-left: 25px;
+    }
+    
+    .tabela_jogadores tr {
+        color: white;
+        font-size: 1em;
+        text-transform: capitalize;
+    }
+    
+    .tabela_jogadores td {
+        padding-left: 25px;
+    }
+    
+    footer {
+        height: 250px;
+        width: 100%;
+        background-color: #000;
+    }
+    
+    .container_footer {
+        height: 100%;
+    }
+    
+    .box_footer {
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .box_nav {
+        display: flex;
+        justify-content: space-between;
+        width: 330px;
+    }
+    
+    .nav_footer {
+        display: flex;
+        flex-direction: column;
+        height: 125px;
+    }
+    
+    .nav_footer a {
+        text-decoration: none;
+        color: #fff;
+        font-size: 18px;
+    }
+    
+    .nav_footer ul {
+        color: #fff;
+    }
+    
+    .nav_footer span {
+        color: #fff;
+        font-size: 27px;
+    }
+    
+    .formulario_newsletter {
+        width: 100%;
+        display: flex;
+        height: auto;
+        margin-bottom: 40px;
+    }
+    
+    .campo_newsletter {
+        height: 36px;
+        width: 250px;
+        background-color: #fff;
+        font-size: 20px;
+    }
+    
+    .botao_newsletter {
+        height: 40px;
+        width: 150px;
+        background-color: #001f70;
+        color: #fff;
+        font-size: 23px;
+    }
+    
+    .redes_sociais {
+        display: flex;
+        width: 345px;
+        height: auto;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .redes_sociais span {
+        font-size: 24px;
+        color: #fff;
+    }
+    
+    .redes_sociais img {
+        width: 47px;
+        height: 47px;
+    }
+    
+    @media (max-width:768px) {
+        .container {
+            width: 80vw;
+        }
+        .nav_header {
+            display: none;
+            height: 300px;
+            width: 100%;
+            flex-direction: column;
+            position: absolute;
+            justify-content: space-evenly;
+            top: 60px;
+            left: 0;
+            background-color: #1e1c21;
+        }
+        .container_header {
+            align-items: center;
+            justify-content: space-between;
+        }
+        .btn_menu i {
+            color: #fff;
+            font-size: 30px;
+        }
+        .banner_cadastro {
+            background-size: cover;
+        }
+        .box_cadastro {
+            width: 80vw;
+        }
+        .nome {
+            width: 60vw;
+        }
+        .equipe {
+            width: 60vw;
+        }
+        .email {
+            width: 60vw;
+        }
+        .senha {
+            width: 60vw;
+        }
+        .escolha_equipe {
+            width: 60vw;
+        }
+        .tabela_jogadores {
+            width: 80vw;
+        }
+        footer {
+            height: 450px;
+        }
+        .box_footer {
+            height: 100%;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            flex-direction: column;
+        }
+    }

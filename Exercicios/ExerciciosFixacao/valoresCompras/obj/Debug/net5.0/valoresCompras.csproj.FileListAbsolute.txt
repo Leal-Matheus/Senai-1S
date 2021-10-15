@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\bin\Debug\net5.0\valoresCompras.exe
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\bin\Debug\net5.0\valoresCompras.deps.json
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\bin\Debug\net5.0\valoresCompras.runtimeconfig.json
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\bin\Debug\net5.0\valoresCompras.runtimeconfig.dev.json
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\bin\Debug\net5.0\valoresCompras.dll
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\bin\Debug\net5.0\ref\valoresCompras.dll
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\bin\Debug\net5.0\valoresCompras.pdb
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\obj\Debug\net5.0\valoresCompras.csprojAssemblyReference.cache
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\obj\Debug\net5.0\valoresCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\obj\Debug\net5.0\valoresCompras.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\obj\Debug\net5.0\valoresCompras.AssemblyInfo.cs
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\obj\Debug\net5.0\valoresCompras.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\obj\Debug\net5.0\valoresCompras.dll
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\obj\Debug\net5.0\ref\valoresCompras.dll
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\obj\Debug\net5.0\valoresCompras.pdb
+C:\Users\User\Documents\ExercicioFixacao\valoresCompras\obj\Debug\net5.0\valoresCompras.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+Fibonacci{
+
+    escreva("Sequencia de Fibonacci")
+
+    inteiro numeroAnterior = 0
+    inteiro numeroAtual = 1
+    inteiro proximoNumero
+
+    programa inicio{
+
+        para (inteiro i = 0; i < 15; i++)
+        {
+            proximoNumero = numeroAtual + numeroAnterior
+            escreva(proximoNumero)
+            numeroAnterior = numeroAtual
+            numeroAtual = proximoNumero
+        }
+    }
+}

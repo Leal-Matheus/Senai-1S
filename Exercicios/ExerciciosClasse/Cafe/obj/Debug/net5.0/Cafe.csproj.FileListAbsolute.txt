@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\bin\Debug\net5.0\Cafe.exe
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\bin\Debug\net5.0\Cafe.deps.json
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\bin\Debug\net5.0\Cafe.dll
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\bin\Debug\net5.0\Cafe.pdb
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\obj\Debug\net5.0\Cafe.csprojAssemblyReference.cache
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\obj\Debug\net5.0\Cafe.dll
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\obj\Debug\net5.0\Cafe.pdb
+C:\Users\User\Documents\ExerciciosFinais\ExerciciosClasse\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache

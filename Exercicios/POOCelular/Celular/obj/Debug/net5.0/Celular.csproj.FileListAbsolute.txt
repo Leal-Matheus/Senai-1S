@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ObjetoClasse\Celular\bin\Debug\net5.0\Celular.exe
+C:\Users\User\Documents\ObjetoClasse\Celular\bin\Debug\net5.0\Celular.deps.json
+C:\Users\User\Documents\ObjetoClasse\Celular\bin\Debug\net5.0\Celular.runtimeconfig.json
+C:\Users\User\Documents\ObjetoClasse\Celular\bin\Debug\net5.0\Celular.runtimeconfig.dev.json
+C:\Users\User\Documents\ObjetoClasse\Celular\bin\Debug\net5.0\Celular.dll
+C:\Users\User\Documents\ObjetoClasse\Celular\bin\Debug\net5.0\ref\Celular.dll
+C:\Users\User\Documents\ObjetoClasse\Celular\bin\Debug\net5.0\Celular.pdb
+C:\Users\User\Documents\ObjetoClasse\Celular\obj\Debug\net5.0\Celular.csprojAssemblyReference.cache
+C:\Users\User\Documents\ObjetoClasse\Celular\obj\Debug\net5.0\Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ObjetoClasse\Celular\obj\Debug\net5.0\Celular.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ObjetoClasse\Celular\obj\Debug\net5.0\Celular.AssemblyInfo.cs
+C:\Users\User\Documents\ObjetoClasse\Celular\obj\Debug\net5.0\Celular.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ObjetoClasse\Celular\obj\Debug\net5.0\Celular.dll
+C:\Users\User\Documents\ObjetoClasse\Celular\obj\Debug\net5.0\ref\Celular.dll
+C:\Users\User\Documents\ObjetoClasse\Celular\obj\Debug\net5.0\Celular.pdb
+C:\Users\User\Documents\ObjetoClasse\Celular\obj\Debug\net5.0\Celular.genruntimeconfig.cache

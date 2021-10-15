@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\bin\Debug\net5.0\maiorMenor.exe
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\bin\Debug\net5.0\maiorMenor.deps.json
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\bin\Debug\net5.0\maiorMenor.runtimeconfig.json
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\bin\Debug\net5.0\maiorMenor.runtimeconfig.dev.json
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\bin\Debug\net5.0\maiorMenor.dll
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\bin\Debug\net5.0\ref\maiorMenor.dll
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\bin\Debug\net5.0\maiorMenor.pdb
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\obj\Debug\net5.0\maiorMenor.csprojAssemblyReference.cache
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\obj\Debug\net5.0\maiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\obj\Debug\net5.0\maiorMenor.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\obj\Debug\net5.0\maiorMenor.AssemblyInfo.cs
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\obj\Debug\net5.0\maiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\obj\Debug\net5.0\maiorMenor.dll
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\obj\Debug\net5.0\ref\maiorMenor.dll
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\obj\Debug\net5.0\maiorMenor.pdb
+C:\Users\User\Documents\ExercicioFixacao\maiorMenor\obj\Debug\net5.0\maiorMenor.genruntimeconfig.cache

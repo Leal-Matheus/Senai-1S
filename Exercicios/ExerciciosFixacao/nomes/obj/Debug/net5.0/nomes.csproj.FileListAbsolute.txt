@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ExercicioFixacao\nomes\obj\Debug\net5.0\nomes.csprojAssemblyReference.cache
+C:\Users\User\Documents\ExercicioFixacao\nomes\obj\Debug\net5.0\nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ExercicioFixacao\nomes\obj\Debug\net5.0\nomes.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\nomes\obj\Debug\net5.0\nomes.AssemblyInfo.cs
+C:\Users\User\Documents\ExercicioFixacao\nomes\obj\Debug\net5.0\nomes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\nomes\bin\Debug\net5.0\nomes.exe
+C:\Users\User\Documents\ExercicioFixacao\nomes\bin\Debug\net5.0\nomes.deps.json
+C:\Users\User\Documents\ExercicioFixacao\nomes\bin\Debug\net5.0\nomes.runtimeconfig.json
+C:\Users\User\Documents\ExercicioFixacao\nomes\bin\Debug\net5.0\nomes.runtimeconfig.dev.json
+C:\Users\User\Documents\ExercicioFixacao\nomes\bin\Debug\net5.0\nomes.dll
+C:\Users\User\Documents\ExercicioFixacao\nomes\bin\Debug\net5.0\ref\nomes.dll
+C:\Users\User\Documents\ExercicioFixacao\nomes\bin\Debug\net5.0\nomes.pdb
+C:\Users\User\Documents\ExercicioFixacao\nomes\obj\Debug\net5.0\nomes.dll
+C:\Users\User\Documents\ExercicioFixacao\nomes\obj\Debug\net5.0\ref\nomes.dll
+C:\Users\User\Documents\ExercicioFixacao\nomes\obj\Debug\net5.0\nomes.pdb
+C:\Users\User\Documents\ExercicioFixacao\nomes\obj\Debug\net5.0\nomes.genruntimeconfig.cache

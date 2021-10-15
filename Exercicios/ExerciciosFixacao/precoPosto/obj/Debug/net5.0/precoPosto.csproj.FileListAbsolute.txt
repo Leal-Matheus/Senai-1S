@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\bin\Debug\net5.0\precoPosto.exe
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\bin\Debug\net5.0\precoPosto.deps.json
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\bin\Debug\net5.0\precoPosto.runtimeconfig.json
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\bin\Debug\net5.0\precoPosto.runtimeconfig.dev.json
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\bin\Debug\net5.0\precoPosto.dll
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\bin\Debug\net5.0\ref\precoPosto.dll
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\bin\Debug\net5.0\precoPosto.pdb
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\obj\Debug\net5.0\precoPosto.csprojAssemblyReference.cache
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\obj\Debug\net5.0\precoPosto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\obj\Debug\net5.0\precoPosto.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\obj\Debug\net5.0\precoPosto.AssemblyInfo.cs
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\obj\Debug\net5.0\precoPosto.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\obj\Debug\net5.0\precoPosto.dll
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\obj\Debug\net5.0\ref\precoPosto.dll
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\obj\Debug\net5.0\precoPosto.pdb
+C:\Users\User\Documents\ExercicioFixacao\precoPosto\obj\Debug\net5.0\precoPosto.genruntimeconfig.cache

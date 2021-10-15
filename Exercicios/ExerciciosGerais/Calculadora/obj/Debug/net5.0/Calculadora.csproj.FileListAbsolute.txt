@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Backend1\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\User\Documents\Backend1\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\User\Documents\Backend1\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\User\Documents\Backend1\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\User\Documents\Backend1\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\User\Documents\Backend1\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+C:\Users\User\Documents\Backend1\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\User\Documents\Backend1\Calculadora\obj\Debug\net5.0\Calculadora.csprojAssemblyReference.cache
+C:\Users\User\Documents\Backend1\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Backend1\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Backend1\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\User\Documents\Backend1\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Backend1\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\User\Documents\Backend1\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Users\User\Documents\Backend1\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\User\Documents\Backend1\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache

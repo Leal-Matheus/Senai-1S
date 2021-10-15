@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Backend2\leitorSenha\bin\Debug\net5.0\leitorSenha.exe
+C:\Users\User\Documents\Backend2\leitorSenha\bin\Debug\net5.0\leitorSenha.deps.json
+C:\Users\User\Documents\Backend2\leitorSenha\bin\Debug\net5.0\leitorSenha.runtimeconfig.json
+C:\Users\User\Documents\Backend2\leitorSenha\bin\Debug\net5.0\leitorSenha.runtimeconfig.dev.json
+C:\Users\User\Documents\Backend2\leitorSenha\bin\Debug\net5.0\leitorSenha.dll
+C:\Users\User\Documents\Backend2\leitorSenha\bin\Debug\net5.0\ref\leitorSenha.dll
+C:\Users\User\Documents\Backend2\leitorSenha\bin\Debug\net5.0\leitorSenha.pdb
+C:\Users\User\Documents\Backend2\leitorSenha\obj\Debug\net5.0\leitorSenha.csprojAssemblyReference.cache
+C:\Users\User\Documents\Backend2\leitorSenha\obj\Debug\net5.0\leitorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Backend2\leitorSenha\obj\Debug\net5.0\leitorSenha.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Backend2\leitorSenha\obj\Debug\net5.0\leitorSenha.AssemblyInfo.cs
+C:\Users\User\Documents\Backend2\leitorSenha\obj\Debug\net5.0\leitorSenha.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Backend2\leitorSenha\obj\Debug\net5.0\leitorSenha.dll
+C:\Users\User\Documents\Backend2\leitorSenha\obj\Debug\net5.0\ref\leitorSenha.dll
+C:\Users\User\Documents\Backend2\leitorSenha\obj\Debug\net5.0\leitorSenha.pdb
+C:\Users\User\Documents\Backend2\leitorSenha\obj\Debug\net5.0\leitorSenha.genruntimeconfig.cache

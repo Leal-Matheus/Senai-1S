@@ -1,0 +1,23 @@
+programa {
+    idade
+    meses
+    dias
+    horas
+    minutos
+
+
+    função (){
+        escreva ("Insira a sua idade:")
+        leia (idade)
+
+        inteiro meses = idade * 12
+        inteiro dias = idade * 12
+        inteiro horas = idade * 12
+        inteiro minutos = idade * 12
+
+        escreva(""Sua idade em meses: " + meses")
+        escreva(""Sua idade em dias: " + dias")
+        escreva(""Sua idade em horas: " + horas")
+        escreva(""Sua idade em minutos: " + minutos")
+    }
+}

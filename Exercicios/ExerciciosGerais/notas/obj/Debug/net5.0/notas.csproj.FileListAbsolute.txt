@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Backend2\notas\bin\Debug\net5.0\notas.exe
+C:\Users\User\Documents\Backend2\notas\bin\Debug\net5.0\notas.deps.json
+C:\Users\User\Documents\Backend2\notas\bin\Debug\net5.0\notas.runtimeconfig.json
+C:\Users\User\Documents\Backend2\notas\bin\Debug\net5.0\notas.runtimeconfig.dev.json
+C:\Users\User\Documents\Backend2\notas\bin\Debug\net5.0\notas.dll
+C:\Users\User\Documents\Backend2\notas\bin\Debug\net5.0\ref\notas.dll
+C:\Users\User\Documents\Backend2\notas\bin\Debug\net5.0\notas.pdb
+C:\Users\User\Documents\Backend2\notas\obj\Debug\net5.0\notas.csprojAssemblyReference.cache
+C:\Users\User\Documents\Backend2\notas\obj\Debug\net5.0\notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Backend2\notas\obj\Debug\net5.0\notas.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Backend2\notas\obj\Debug\net5.0\notas.AssemblyInfo.cs
+C:\Users\User\Documents\Backend2\notas\obj\Debug\net5.0\notas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Backend2\notas\obj\Debug\net5.0\notas.dll
+C:\Users\User\Documents\Backend2\notas\obj\Debug\net5.0\ref\notas.dll
+C:\Users\User\Documents\Backend2\notas\obj\Debug\net5.0\notas.pdb
+C:\Users\User\Documents\Backend2\notas\obj\Debug\net5.0\notas.genruntimeconfig.cache

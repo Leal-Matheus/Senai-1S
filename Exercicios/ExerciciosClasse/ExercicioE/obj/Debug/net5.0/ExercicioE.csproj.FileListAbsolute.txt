@@ -1,0 +1,16 @@
+C:\Users\dev\Documents\ExercicioE\bin\Debug\net5.0\ExercicioE.exe
+C:\Users\dev\Documents\ExercicioE\bin\Debug\net5.0\ExercicioE.deps.json
+C:\Users\dev\Documents\ExercicioE\bin\Debug\net5.0\ExercicioE.runtimeconfig.json
+C:\Users\dev\Documents\ExercicioE\bin\Debug\net5.0\ExercicioE.runtimeconfig.dev.json
+C:\Users\dev\Documents\ExercicioE\bin\Debug\net5.0\ExercicioE.dll
+C:\Users\dev\Documents\ExercicioE\bin\Debug\net5.0\ref\ExercicioE.dll
+C:\Users\dev\Documents\ExercicioE\bin\Debug\net5.0\ExercicioE.pdb
+C:\Users\dev\Documents\ExercicioE\obj\Debug\net5.0\ExercicioE.csprojAssemblyReference.cache
+C:\Users\dev\Documents\ExercicioE\obj\Debug\net5.0\ExercicioE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\ExercicioE\obj\Debug\net5.0\ExercicioE.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\ExercicioE\obj\Debug\net5.0\ExercicioE.AssemblyInfo.cs
+C:\Users\dev\Documents\ExercicioE\obj\Debug\net5.0\ExercicioE.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\ExercicioE\obj\Debug\net5.0\ExercicioE.dll
+C:\Users\dev\Documents\ExercicioE\obj\Debug\net5.0\ref\ExercicioE.dll
+C:\Users\dev\Documents\ExercicioE\obj\Debug\net5.0\ExercicioE.pdb
+C:\Users\dev\Documents\ExercicioE\obj\Debug\net5.0\ExercicioE.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+programa{
+    idade
+
+
+    função(){
+        escreva("Quantos anos você tem?")
+        leia("idade")
+
+        se (idade <=4)
+            escreva("Você não pertence a nenhuma categoria")
+        se (idade >=5 && idade <=7)
+            escreva("Você pertence a categoria infantil A")
+        se (idade >=8 && idade <=10)
+            escreva("Você pertence a categoria infantil B)
+        se (idade >=11 && idade <=13)
+            escreva("Você pertence a categoria juvenil A")
+        se (idade >=14 && idade <=17)
+            escreva("Você pertence a categoria juvenil B")
+        se ((idade >=18)
+            escreva("Você pertence a categoria sênior")
+    }
+}

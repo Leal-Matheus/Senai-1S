@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Backend2\informacoes\obj\Debug\net5.0\informacoes.csprojAssemblyReference.cache
+C:\Users\User\Documents\Backend2\informacoes\obj\Debug\net5.0\informacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Backend2\informacoes\obj\Debug\net5.0\informacoes.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Backend2\informacoes\obj\Debug\net5.0\informacoes.AssemblyInfo.cs
+C:\Users\User\Documents\Backend2\informacoes\obj\Debug\net5.0\informacoes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Backend2\informacoes\bin\Debug\net5.0\informacoes.exe
+C:\Users\User\Documents\Backend2\informacoes\bin\Debug\net5.0\informacoes.deps.json
+C:\Users\User\Documents\Backend2\informacoes\bin\Debug\net5.0\informacoes.runtimeconfig.json
+C:\Users\User\Documents\Backend2\informacoes\bin\Debug\net5.0\informacoes.runtimeconfig.dev.json
+C:\Users\User\Documents\Backend2\informacoes\bin\Debug\net5.0\informacoes.dll
+C:\Users\User\Documents\Backend2\informacoes\bin\Debug\net5.0\ref\informacoes.dll
+C:\Users\User\Documents\Backend2\informacoes\bin\Debug\net5.0\informacoes.pdb
+C:\Users\User\Documents\Backend2\informacoes\obj\Debug\net5.0\informacoes.dll
+C:\Users\User\Documents\Backend2\informacoes\obj\Debug\net5.0\ref\informacoes.dll
+C:\Users\User\Documents\Backend2\informacoes\obj\Debug\net5.0\informacoes.pdb
+C:\Users\User\Documents\Backend2\informacoes\obj\Debug\net5.0\informacoes.genruntimeconfig.cache

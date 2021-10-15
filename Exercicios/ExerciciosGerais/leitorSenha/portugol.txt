@@ -1,0 +1,22 @@
+leitorSenha{
+
+    lógico respostaValida = falso
+
+    escreva("Insira o nome do seu usuario:")
+        cadeia usuario = leia
+
+    enquanto (verificacao == falso)
+    {
+        escreva("Insira sua senha")
+        cadeia senha = leia
+
+        se (usuario == senha)
+        {
+            escreva("Sua senha é igual ao nome de usuario!!")
+        }senao
+        {
+            leia("eu usuario e senha foram registrados!!")
+            verificacao = verdadeiro
+        }
+    }
+}

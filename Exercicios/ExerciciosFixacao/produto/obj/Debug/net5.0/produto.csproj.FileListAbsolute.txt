@@ -1,0 +1,16 @@
+C:\Users\User\Documents\ExercicioFixacao\produto\bin\Debug\net5.0\produto.exe
+C:\Users\User\Documents\ExercicioFixacao\produto\bin\Debug\net5.0\produto.deps.json
+C:\Users\User\Documents\ExercicioFixacao\produto\bin\Debug\net5.0\produto.runtimeconfig.json
+C:\Users\User\Documents\ExercicioFixacao\produto\bin\Debug\net5.0\produto.runtimeconfig.dev.json
+C:\Users\User\Documents\ExercicioFixacao\produto\bin\Debug\net5.0\produto.dll
+C:\Users\User\Documents\ExercicioFixacao\produto\bin\Debug\net5.0\ref\produto.dll
+C:\Users\User\Documents\ExercicioFixacao\produto\bin\Debug\net5.0\produto.pdb
+C:\Users\User\Documents\ExercicioFixacao\produto\obj\Debug\net5.0\produto.csprojAssemblyReference.cache
+C:\Users\User\Documents\ExercicioFixacao\produto\obj\Debug\net5.0\produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ExercicioFixacao\produto\obj\Debug\net5.0\produto.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\produto\obj\Debug\net5.0\produto.AssemblyInfo.cs
+C:\Users\User\Documents\ExercicioFixacao\produto\obj\Debug\net5.0\produto.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ExercicioFixacao\produto\obj\Debug\net5.0\produto.dll
+C:\Users\User\Documents\ExercicioFixacao\produto\obj\Debug\net5.0\ref\produto.dll
+C:\Users\User\Documents\ExercicioFixacao\produto\obj\Debug\net5.0\produto.pdb
+C:\Users\User\Documents\ExercicioFixacao\produto\obj\Debug\net5.0\produto.genruntimeconfig.cache
